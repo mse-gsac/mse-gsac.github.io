@@ -4,9 +4,7 @@ title: Events
 permalink: /events/
 ---
 
-This page serves as an index list for all the events planned by GSAC. If you can't find the event you're looking for in the _blog_ tab, it's easier to find it here! 
-
-![]({{ "/images/max.jpg" | absolute_url }})
+This page serves as an index list for all the events planned by GSAC. If you can't find the event you're looking for in the _blog_ tab, it's easier to find it here!
 
 # 2018
 - January
