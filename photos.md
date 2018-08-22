@@ -4,4 +4,7 @@ title: Photos
 permalink: /photos/
 ---
 
-![]({{ "/images/max.jpg" | absolute_url }})
+# Current GSAC Officers
+
+# 2018
+[Graduate Symposium 2018](https://photos.app.goo.gl/7udkphffTqpQiUyg8)
