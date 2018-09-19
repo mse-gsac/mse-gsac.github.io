@@ -20,7 +20,7 @@ Subscribe to our Google Calendar! <a href="https://calendar.google.com/calendar?
   - [Ohio Spartan Sprint 2018](https://mse-gsac.github.io/Ohio-Spartan-Sprint-2018)
 - July
 - August
-  - [GSAC Summer Seminar Series 2018 (date TBD)](https://mse-gsac.github.io/GSAC-Summer-Seminar-Series)
+  - [GSAC Summer Seminar Series 2018](https://mse-gsac.github.io/GSAC-Summer-Seminar-Series)
 - September
   - [RPE Bootcamp](https://drive.google.com/open?id=1OTNPSCYbzDjdwjCG14k823sUoih2r3fO)
   - [Coffee Hour]({% post_url 2018-9-19-Coffee-Hour %})
