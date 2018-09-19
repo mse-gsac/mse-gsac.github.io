@@ -4,7 +4,9 @@ title: Events
 permalink: /events/
 ---
 
-This page serves as an index list for all the events planned by GSAC. If you can't find the event you're looking for in the _blog_ tab, it's easier to find it here!
+This page serves as an index list for all the events planned by GSAC. If you can't find the event you're looking for in the [blog](/) tab, it's easier to find it here! 
+Subscribe to our Google Calendar! <a href="https://calendar.google.com/calendar?cid=Y211Lm1zZS5nc2FjQGdtYWlsLmNvbQ" target="_blank"><img src="https://www.google.com/calendar/images/ext/gc_button1_en.gif" alt="Subscribe!" border="0" /></a>
+
 
 # 2018
 - January
