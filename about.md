@@ -10,11 +10,10 @@ Graduate Student Advisory Committee (GSAC) is the organization for graduate stud
 
 ### 2020-21 GSAC Members
 
-| Officer Title                         | Name                   |
+| **Officer Title88                     | **Name**               |
 |---------------------------------------|------------------------|
 | President                             | Gaurav Balakrishnan    |
 | Faculty Advisor                       | P. Chris Pistorius     |
-|                                       |                        |
 | DEI Chair                             | Katelyn Jones          |
 | GSA Rep                               | Shreyes Nallan         |
 | Professional/Graduate Symposium Chair | Nisrit Pandey          |
