@@ -16,7 +16,7 @@ Graduate Student Advisory Committee (GSAC) is the organization for graduate stud
 | Faculty Advisor                       | P. Chris Pistorius     |
 | DEI Chair                             | Katelyn Jones          |
 | GSA Rep                               | Shreyes Nallan         |
-| Professional/Graduate Symposium Chair | Nisrit Pandey          |
+| Graduate Symposium Chair | Nisrit Pandey          |
 | Master's Rep                          | Lucero Lopez           |
 | Master's Rep                          | Siyu Wang              |
 | Professional Chair                    | Nisrit Pandey          |
